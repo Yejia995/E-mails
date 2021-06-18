@@ -1,5 +1,3 @@
-# E-mails
-*Some are just for kidding:*<br>
 ### Yejia995@gmail.com
 ### Yejia995@foxmail.com
 ### Yejia995@outlook.com
