@@ -1,0 +1,5 @@
+使用方法
+
+　　1、复制“Crack_By_KRV_Don't_sell_!!!.lic”到“C:\ProgramData\Live2D\Cubism License\12\”即可
+
+　　2、复制“rlm1221.dll”到“C:\Program Files\Live2D Cubism 4.0\app\dll64\”直接覆盖。
